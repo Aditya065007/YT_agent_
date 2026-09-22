@@ -1,6 +1,6 @@
 # YouTube Video RAG Chatbot
 
-**Live App:** [Add your Streamlit link here]
+**Live App:** https://dhf8vssacsym8vtqth9hgz.streamlit.app/
 
 A Streamlit app that lets you load one or more YouTube videos and ask questions about their content in a conversational, multi-turn chat interface. Answers are grounded strictly in the video transcripts using a technique called retrieval-augmented generation (RAG) — instead of letting a language model answer from general knowledge, the app first finds the exact parts of the transcript relevant to the question and forces the model to answer only from that material.
 
